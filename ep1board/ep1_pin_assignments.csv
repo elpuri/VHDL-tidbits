@@ -1,0 +1,53 @@
+# Copyright (C) 1991-2010 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II Version 10.1 Build 153 11/29/2010 SJ Web Edition
+# File: /home/elpuri/repos/VHDL-tidbits/ep1board/ep1_pin_assignments.csv
+# Generated on: Wed Jan  1 15:56:27 2014
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard
+seven_seg_an[0],Output,PIN_83,3,B3_N2,
+seven_seg_an[1],Output,PIN_84,3,B3_N2,
+seven_seg_an[2],Output,PIN_85,3,B3_N2,
+seven_seg_an[3],Output,PIN_91,3,B3_N1,
+seven_seg[0],Output,PIN_76,3,B3_N2,
+seven_seg[1],Output,PIN_74,3,B3_N2,
+seven_seg[3],Output,PIN_78,3,B3_N2,
+seven_seg[4],Output,PIN_79,3,B3_N2,
+seven_seg[5],Output,PIN_75,3,B3_N2,
+seven_seg[7],Output,PIN_73,3,B3_N2,
+leds[0],Output,PIN_57,4,B4_N1,
+leds[1],Output,PIN_55,4,B4_N1,
+leds[2],Output,PIN_52,4,B4_N1,
+leds[3],Output,PIN_49,4,B4_N2,
+leds[4],Output,PIN_47,4,B4_N2,
+leds[5],Output,PIN_42,4,B4_N2,
+clk_50,Input,PIN_92,3,B3_N1,
+buzz,Output,PIN_94,3,B3_N1,
+btn[0],Input,PIN_67,4,B4_N0,
+btn[1],Input,PIN_62,4,B4_N0,
+btn[2],Input,PIN_61,4,B4_N0,
+btn[3],Input,PIN_60,4,B4_N0,
+seven_seg[2],Output,PIN_77,3,B3_N2,
+seven_seg[6],Output,PIN_82,3,B3_N2,
+uart_txd,Output,PIN_69,4,B4_N0,
+uart_rxd,Input,PIN_68,4,B4_N0,
+sw[0],Input,PIN_54,4,B4_N1,
+sw[1],Input,PIN_53,4,B4_N1,
+sw[2],Input,PIN_51,4,B4_N2,
+sw[3],Input,PIN_50,4,B4_N2,
+sw[4],Input,PIN_48,4,B4_N2,
+sw[5],Input,PIN_41,4,B4_N2,

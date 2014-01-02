@@ -1,0 +1,8 @@
+These files are related to a type of cheap widely available Altera Cyclone I based
+development board manufactured in China. It's probably a clone of some old official
+Altera board.
+
+The upper bank of DIP switches doesn't work due to a design flaw (I think). When
+a switch is engaged the pin is shorted to VCC, otherwise the pin is left to float.
+and the internal pull-up resistors pull the pin high. I don't know how they expected 
+this to work. The lower bank connects pins to GND and works as expected.
